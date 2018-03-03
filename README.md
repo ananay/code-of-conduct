@@ -106,7 +106,7 @@ The [main group of Hackathon Hackers](https://www.facebook.com/groups/hackathonh
 * [Tae Hong Min](https://www.facebook.com/TerryPiercson)
 * [Dan Zhang](https://www.facebook.com/dan.zhang)
 * [Sharon Lin](https://www.facebook.com/sharonlinnyc)
-* [Ananay Arora](https://www.facebook.com/hackerananay)
+* [Ananay Arora](https://www.facebook.com/ananayarora)
 
 Each [HH subgroup](https://github.com/HackathonHackers/groups) is run by an independent team of moderators. If your question concerns an HH subgroup, please reach out to one of the subgroup's moderators first.
 
